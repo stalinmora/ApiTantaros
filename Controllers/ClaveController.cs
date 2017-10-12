@@ -1,6 +1,9 @@
+using Microsoft.AspNetCore.Mvc;
+
 namespace ApiTantaros.Controllers
 {
-    public class ClaveController
+    [Route("api/[controller]")]
+    public class ClaveController : Controller
     {
         
     }
