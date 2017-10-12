@@ -12533,28 +12533,30 @@
     ]
   },
   "packageFolders": {
-    "/home/stalin/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\s.mora\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/stalin/Proyectos/ApiTantaros/ApiTantaros.csproj",
+      "projectUniqueName": "c:\\Users\\s.mora\\Desktop\\Proyectos\\webLicencias\\ApiTantaros\\ApiTantaros.csproj",
       "projectName": "ApiTantaros",
-      "projectPath": "/home/stalin/Proyectos/ApiTantaros/ApiTantaros.csproj",
-      "packagesPath": "/home/stalin/.nuget/packages/",
-      "outputPath": "/home/stalin/Proyectos/ApiTantaros/obj/",
+      "projectPath": "c:\\Users\\s.mora\\Desktop\\Proyectos\\webLicencias\\ApiTantaros\\ApiTantaros.csproj",
+      "packagesPath": "C:\\Users\\s.mora\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\s.mora\\Desktop\\Proyectos\\webLicencias\\ApiTantaros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/stalin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\s.mora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
